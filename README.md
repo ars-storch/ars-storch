@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ars-storch
-- 👀 I’m interested in iOS Development
+- 👀 I’m iOS Developer
 - 📫 How to reach me: ars.storch@gmail.com
 
 <!---
